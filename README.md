@@ -1,8 +1,7 @@
 # Generative-Art
 BA-projekt
 
-Generativ kunstteori
-- En undersøgelse af forfatterskab gennem generativ kunst
+Generativ kunstteori: En undersøgelse af forfatterskab gennem generativ kunst
 
 
 Med udgangspunkt i opgavens problemstilling er der udarbejdet et produkt med henblik på undersøgelse af forfatterskab gennem egen produktudvikling af et generativt kunstværk. Kunstværket hedder "Metro".
